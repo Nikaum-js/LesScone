@@ -18,16 +18,7 @@
 
 Para instalar o LesCone, siga estas etapas:
 
-Linux e macOS:
-```
-git clone https://github.com/Nikolas-as/LesScone.git
-
-cd LesScone
-
-npm start
-```
-
-Windows:
+Linux, macOS e Windows:
 ```
 git clone https://github.com/Nikolas-as/LesScone.git
 
