@@ -1,11 +1,11 @@
-# LesCone
+# LesScone
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/LesCone?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/LesCone?style=for-the-badge)
 
-<img src="" alt="exemplo imagem">
+<img src="./assets/images/LesCone.PNG" alt="exemplo imagem">
 
 > Esse é um projeto que eu fiz usando SASS e HTML pra treinar um pouco esse pré-processador tão importantate que é o SASS
 > 
