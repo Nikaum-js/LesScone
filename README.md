@@ -20,18 +20,18 @@ Para instalar o LesCone, siga estas etapas:
 
 Linux e macOS:
 ```
-git clone https://github.com/Nikolas-as/LesCone.git
+git clone https://github.com/Nikolas-as/LesScone.git
 
-cd LesCone
+cd LesScone
 
 npm start
 ```
 
 Windows:
 ```
-git clone https://github.com/Nikolas-as/LesCone.git
+git clone https://github.com/Nikolas-as/LesScone.git
 
-cd LesCone
+cd LesScone
 
 npm start
 ```
