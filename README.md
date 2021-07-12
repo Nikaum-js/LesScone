@@ -12,7 +12,7 @@
 - [SASS](https://sass-lang.com/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-## 🚀 Instalando Recriando o Facebook
+## 🚀 Instalando LesScone
 
 Para instalar o LesCone, siga estas etapas:
 
@@ -32,7 +32,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62979208?v=4" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/62979208?v=4" width="100px;" alt="Foto do Nikolas no GitHub"/><br>
         <sub>
           <b>Nikolas-as</b>
         </sub>
